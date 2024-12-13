@@ -7,6 +7,7 @@
 theme = "congo"
 defaultContentLanguage = "en"
 
+
 enableRobotsTXT = true
 summaryLength = 0
 mainSections = ["articles", "books"]
